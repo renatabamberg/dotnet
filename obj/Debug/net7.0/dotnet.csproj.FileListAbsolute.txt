@@ -1,0 +1,15 @@
+/home/renata-amaral-bamberg/dotnet/bin/Debug/net7.0/dotnet
+/home/renata-amaral-bamberg/dotnet/bin/Debug/net7.0/dotnet.deps.json
+/home/renata-amaral-bamberg/dotnet/bin/Debug/net7.0/dotnet.runtimeconfig.json
+/home/renata-amaral-bamberg/dotnet/bin/Debug/net7.0/dotnet.dll
+/home/renata-amaral-bamberg/dotnet/bin/Debug/net7.0/dotnet.pdb
+/home/renata-amaral-bamberg/dotnet/obj/Debug/net7.0/dotnet.csproj.AssemblyReference.cache
+/home/renata-amaral-bamberg/dotnet/obj/Debug/net7.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/renata-amaral-bamberg/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfoInputs.cache
+/home/renata-amaral-bamberg/dotnet/obj/Debug/net7.0/dotnet.AssemblyInfo.cs
+/home/renata-amaral-bamberg/dotnet/obj/Debug/net7.0/dotnet.csproj.CoreCompileInputs.cache
+/home/renata-amaral-bamberg/dotnet/obj/Debug/net7.0/dotnet.dll
+/home/renata-amaral-bamberg/dotnet/obj/Debug/net7.0/refint/dotnet.dll
+/home/renata-amaral-bamberg/dotnet/obj/Debug/net7.0/dotnet.pdb
+/home/renata-amaral-bamberg/dotnet/obj/Debug/net7.0/dotnet.genruntimeconfig.cache
+/home/renata-amaral-bamberg/dotnet/obj/Debug/net7.0/ref/dotnet.dll
